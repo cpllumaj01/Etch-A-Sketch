@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    width:100px;
+    height:25px;
+    gap:2px;
+}
+
+.sketchBox {
+    outline: solid black;
+    height: 23px;
+    width: 23px;
+}
